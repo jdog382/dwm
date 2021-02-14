@@ -1,17 +1,16 @@
-Requirements
-------------
+Requirements:
 In order to build dwm you need the Xlib header files.
 
+terminal emulator used by default is kitty
 
-Installation
 ------------
+Installation:
 enter the following command to build and install dwm (as root if necessary):
 
     make clean install
 
-
-Running my dwm build
 -----------
+Running my dwm build:
 this is the .xinitrc i use so just copy it
 
 while true; do
