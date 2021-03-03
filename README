@@ -12,12 +12,4 @@ enter the following command to build and install dwm (as root if necessary):
 
 Running my dwm build
 -----------
-this is the .xinitrc i use so just copy it
-
-while true; do
-     xsetroot -name "$(date +"%I:%M %p - %A %d %Y")"
-     sleep 1m
-done &
-
-xhost +
-exec dwm
+put 'exec dwm' somewhere in your .xinitrc
