@@ -1,7 +1,7 @@
 Requirements:
 In order to build dwm you need the Xlib header files.
 
-terminal emulator used by default is kitty
+terminal emulator used by default is kitty, mod key is the windows key (command key for mac)
 
 ------------
 Installation:
